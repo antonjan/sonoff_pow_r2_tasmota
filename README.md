@@ -11,5 +11,6 @@ Download the bin file from Tasmota for Sonoff<br>
 Create config template for Sonnof POW R2<br>
 {"NAME":"Sonoff Pow R2","GPIO":[17,145,0,146,0,0,0,0,21,56,0,0,0],"FLAG":0,"BASE":43}<br>
 Download the tasmota bineries from here http://ota.tasmota.com/tasmota/release/<br>
+or here https://github.com/arendst/Tasmota/releases/
 
 
